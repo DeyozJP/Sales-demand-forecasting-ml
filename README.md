@@ -31,7 +31,7 @@ The final model achieves low MAE (~9 units) and high R² (~0.88) on the test set
 │   └── sales_forecasting.ipynb
 │
 ├── README.md
-└── requirements.txt```
+└── requirements.txt
 
 
 ##### Problem Statement
